@@ -10,7 +10,7 @@
 <br/>
 <br/>
 
-[![Github Badge](https://img.shields.io/badge/-J-riz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
+[![Github Badge](https://img.shields.io/badge/-J-yriz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
 - 🧑🏻‍💻 Programing Python, Java, dan C++
 - 💬 Pertanyaan Untuk Gw? : Pacar??? atau yang Lain???
 - ⚡ Fun fact: Gw Sangat Tampang, Pemberani, dan Pintar
