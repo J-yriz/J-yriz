@@ -36,7 +36,7 @@
 <br/>
 
 [![Github Badge](https://img.shields.io/badge/-Jyriz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
-- 🧑🏻‍💻 Programing Python, Java, dan C++
+- 🧑🏻‍💻 Programing Python, Java, and C++
 - 💬 Ask for me?? : FirlFriend??? or other??
 - ⚡ Fun fact: I'm so Handsome, and Smart
 
