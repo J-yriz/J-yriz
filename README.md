@@ -11,6 +11,7 @@
 <br/>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
+
 [![Github Badge](https://img.shields.io/badge/-Jyriz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
 - 🧑🏻‍💻 Programing Python, Java, dan C++
 - 💬 Pertanyaan Untuk Gw? : Pacar??? atau yang Lainnya???
@@ -30,6 +31,7 @@
 <br/>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
+
 [![Github Badge](https://img.shields.io/badge/-Jyriz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
 - 🧑🏻‍💻 Programing Python, Java, and C++
 - 💬 Ask for me?? : FirlFriend??? or other??
