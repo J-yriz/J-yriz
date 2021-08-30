@@ -15,13 +15,6 @@
 - 💬 Pertanyaan Untuk Gw? : Pacar??? atau yang Lainnya???
 - ⚡ Fun fact: Gw Sangat Tampang, Pemberani, dan Pintar
 
-## Status GitHub Jariz
-<p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-yriz&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-yriz&layout=compact)](https://github.com/J-yriz/github-readme-stats)
-
 
 > English Language
 ## Hallo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'am Jariz
@@ -40,7 +33,7 @@
 - 💬 Ask for me?? : FirlFriend??? or other??
 - ⚡ Fun fact: I'm so Handsome, and Smart
 
-## Status GitHub Jariz
+## Stats GitHub Jariz and Used Language Program
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-yriz&show_icons=true)
