@@ -1,7 +1,7 @@
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Jariz / Fajar <a href="https://www.instagram.com/riz.ig/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="22px" width="22px" /></a>
- 
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Jariz / Fajar 
+<a href="https://www.instagram.com/riz.ig/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="25px" width="25px" /></a>
 
-<br/>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me....**
 > 🧑🏻‍💻 My skill programming language 
 - ✔ NodeJS [Learning Process]
