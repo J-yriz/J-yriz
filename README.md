@@ -14,7 +14,7 @@
 - ✔ Nothing :)
 
 > The reason why I use GitHub?
-- so that I can save the coding results easily or can share my coding results with others
+- ✔ so that I can save the coding results easily or can share my coding results with others
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
 
