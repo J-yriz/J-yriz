@@ -1,8 +1,4 @@
-> Indonesia Language
-## Halo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Saya Jariz
-<a href="https://github.com/J-yriz">
-  <img align="left" alt="J-riz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+## Hi, my name is Jariz / Fajar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <a href="https://www.instagram.com/riz.ig/">
   <img align="left" alt="J-riz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -10,34 +6,12 @@
 <br/>
 <br/>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
-
-[![Github Badge](https://img.shields.io/badge/-Jyriz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 - 🧑🏻‍💻 Programing Python, Java, dan C++
 - 💬 Pertanyaan Untuk Gw? : Pacar??? atau yang Lainnya???
 - ⚡ Fun fact: Gw Sangat Tampang, Pemberani, dan Pintar
 
-
-> English Language
-## Hallo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'am Jariz
-<a href="https://github.com/J-yriz">
-  <img align="left" alt="J-riz's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/riz.ig/">
-  <img align="left" alt="J-riz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br/>
-<br/>
-
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
-
-[![Github Badge](https://img.shields.io/badge/-Jyriz-grey?style=flat&logo=github&logoColor=white&link=https://github.com/J-yriz)](https://github.com/J-yriz)
-- 🧑🏻‍💻 Programing Python, Java, and C++
-- 💬 Ask for me?? : GirlFriend??? or other??
-- ⚡ Fun fact: I'm so Handsome, and Smart
-
-## Stats GitHub Jariz and Used Language Program
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-yriz&show_icons=true)
 
