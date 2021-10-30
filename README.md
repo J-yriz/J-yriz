@@ -7,15 +7,15 @@
 <br/>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**About me....**
-- 🧑🏻‍💻 My skill programming language 
-> ✔ NodeJS [Learning Process]
-> ✔ Java [Learning Procses]
-> ✔ Python
-- 💬 Question for me?
-> ✔ GirlFriend? -> not have
-> ✔ Other? -> Contact me Discord [Jariz#7706]
-- ⚡ FunFact
-> ✔ Nothing :)
+> 🧑🏻‍💻 My skill programming language 
+- ✔ NodeJS [Learning Process]
+- ✔ Java [Learning Procses]
+- ✔ Python
+> 💬 Question for me?
+- ✔ GirlFriend? -> not have
+- ✔ Other? -> Contact me Discord [Jariz#7706]
+> ⚡ FunFact
+- ✔ Nothing :)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
 
