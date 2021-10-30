@@ -15,6 +15,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=J-yriz alt=Jariz /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-yriz&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-yriz&layout=compact)](https://github.com/J-yriz/github-readme-stats)
+<a href="https://github.com/J-yriz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-yriz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-yriz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
