@@ -1,4 +1,4 @@
-## Hi, my name is Jariz / Fajar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Jariz / Fajar 
 <a href="https://www.instagram.com/riz.ig/">
   <img align="left" alt="J-riz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
