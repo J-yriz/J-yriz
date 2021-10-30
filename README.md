@@ -1,7 +1,5 @@
 ## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, my name is Jariz / Fajar 
-<a href="https://www.instagram.com/riz.ig/">
-  <img align="left" alt="J-riz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<a href="https://www.instagram.com/riz.ig/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="22px" width="22px" /></a>
 
 <br/>
 <br/>
