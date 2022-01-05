@@ -20,4 +20,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=J-yriz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=J-yriz&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-![Discord](https://discord.c99.nl/widget/theme-3/824772882453364806.png)
