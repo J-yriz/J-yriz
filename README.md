@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi there! 👋 Welcome to my GitHub Profile!, I'm **Fajar Aziz Kurniawan** you can call me Jariz or Fajar, a passionate software developer currently pursuing my studies at **Universitas Dian Nuswantoro**. I specialize in **TypeScript** and have a strong command of modern web development tools and frameworks.
+Hi there! 👋 Welcome to my GitHub Profile!, I'm **Fajar Aziz Kurniawan** you can call me Jariz or Fajar, a passionate website developer currently pursuing my studies at **Universitas Dian Nuswantoro**. I specialize in **TypeScript** and have a strong command of modern web development tools and frameworks.
 
 
 ## 🌐 Socials:
